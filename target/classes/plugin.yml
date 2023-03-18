@@ -1,0 +1,8 @@
+name: InfinityMine
+version: '1.0-SNAPSHOT'
+main: me.mowlcoder.infinitymine.InfinityMine
+api-version: 1.19
+
+commands:
+  mine:
+    usage: /mine

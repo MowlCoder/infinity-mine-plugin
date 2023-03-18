@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InfinityMine:jar">
+    <output-path>$USER_HOME$/Desktop/mc-server/plugins</output-path>
+    <root id="archive" name="InfinityMine.jar">
+      <element id="module-output" name="InfinityMine" />
+    </root>
+  </artifact>
+</component>
